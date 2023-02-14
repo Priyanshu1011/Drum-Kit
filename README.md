@@ -7,3 +7,6 @@ If you're bored and feel like making your own beats, then this simple Drum Kit i
 You can use either your keyboard or clicks or both to play the beats. 
 
 [Drum Kit](https://priyanshu1011.github.io/Drum-Kit/)
+
+### Screenshots:
+![website](/ss/1.jpg)
